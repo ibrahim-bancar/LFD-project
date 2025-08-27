@@ -16,9 +16,7 @@ The **CIFAR-10** dataset will be used, containing **60,000 color images** of 10 
 - One class (e.g., "airplane") is designated as the normal class.
 - The remaining classes are considered anomalous.
 - The **CIFAR-10** dataset is required for this project. You can download it using the following command:
-
-```bash
-# Download CIFAR-10 dataset
+- Download CIFAR-10 dataset
 wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 tar -xzvf cifar-10-python.tar.gz
 
