@@ -15,10 +15,8 @@ It is hypothesized that combining the **Deep SVDD** algorithm with **ResNet18** 
 The **CIFAR-10** dataset will be used, containing **60,000 color images** of 10 different classes (e.g., airplane, car, bird, etc.). For this project:
 - One class (e.g., "airplane") is designated as the normal class.
 - The remaining classes are considered anomalous.
-- The **CIFAR-10** dataset is required for this project. You can download it using the following command:
-- Download CIFAR-10 dataset
-wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
-tar -xzvf cifar-10-python.tar.gz
+- The **CIFAR-10** dataset is required for this project. You can download it using the following link:
+- Download CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
 
 ### Model Architecture:
