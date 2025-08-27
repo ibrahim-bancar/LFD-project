@@ -42,6 +42,16 @@ The **`requirements.txt`** includes:
 - `matplotlib`
 - `pickle5` (for data serialization)
 
+## Data
+
+The **CIFAR-10** dataset is required for this project. You can download it using the following command:
+
+```bash
+# Download CIFAR-10 dataset
+wget https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+tar -xzvf cifar-10-python.tar.gz
+
+
 ## Authors
 - Ibrahim Bancar – 150220313
 - Emre Aydoğmuş – 150220323
